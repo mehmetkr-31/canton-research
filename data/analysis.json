@@ -1,0 +1,2042 @@
+{
+  "generated_at": "2026-04-05T02:03:45.256906",
+  "total_topics": 726,
+  "fa_requests_count": 226,
+  "fa_requests": [
+    {
+      "raw_title": "Featured App Request: Winsnip - Wintip",
+      "company": "Winsnip",
+      "app_name": "Wintip",
+      "topic_id": "118479109",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_winsnip/118479109"
+    },
+    {
+      "raw_title": "Featured App Request: CC Bot - CC Bot Wallet",
+      "company": "CC Bot",
+      "app_name": "CC Bot Wallet",
+      "topic_id": "118496702",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_cc_bot/118496702"
+    },
+    {
+      "raw_title": "Featured App Request: Lattice Foundation - Lattice",
+      "company": "Lattice Foundation",
+      "app_name": "Lattice",
+      "topic_id": "118660548",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_lattice/118660548"
+    },
+    {
+      "raw_title": "Featured App Request: POSTHUMAN - Centrifuge",
+      "company": "POSTHUMAN",
+      "app_name": "Centrifuge",
+      "topic_id": "118660547",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118660547"
+    },
+    {
+      "raw_title": "Featured App Request: Saxon - Canton Keeper",
+      "company": "Saxon",
+      "app_name": "Canton Keeper",
+      "topic_id": "118645430",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_saxon/118645430"
+    },
+    {
+      "raw_title": "Featured App Request: CompassPost - CompassSwap",
+      "company": "CompassPost",
+      "app_name": "CompassSwap",
+      "topic_id": "118645429",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118645429"
+    },
+    {
+      "raw_title": "Featured App Request: Aurtech Group Holdings Ltd - Aurpay Merchant Privacy Rail",
+      "company": "Aurtech Group Holdings Ltd",
+      "app_name": "Aurpay Merchant Privacy Rail",
+      "topic_id": "118628935",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_aurtech/118628935"
+    },
+    {
+      "raw_title": "Featured App Request: Avro Digital Inc - Avro Exchange",
+      "company": "Avro Digital Inc",
+      "app_name": "Avro Exchange",
+      "topic_id": "118628934",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_avro/118628934"
+    },
+    {
+      "raw_title": "Featured App Request: Copper Technologies - ClearLoop Tokens",
+      "company": "Copper Technologies",
+      "app_name": "ClearLoop Tokens",
+      "topic_id": "118628933",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_copper/118628933"
+    },
+    {
+      "raw_title": "Featured App Request: Copper Technologies - ClearLoop Settlement",
+      "company": "Copper Technologies",
+      "app_name": "ClearLoop Settlement",
+      "topic_id": "118628932",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_copper/118628932"
+    },
+    {
+      "raw_title": "Featured App Request: Copper.co - Custodial Wrapped Assets",
+      "company": "Copper.co",
+      "app_name": "Custodial Wrapped Assets",
+      "topic_id": "118628931",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118628931"
+    },
+    {
+      "raw_title": "Featured App Request: Lumarion Labs LLC - Clareos",
+      "company": "Lumarion Labs LLC",
+      "app_name": "Clareos",
+      "topic_id": "118109470",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118109470"
+    },
+    {
+      "raw_title": "Featured App Request: The Dark Sole Enterprise Ltd - Apex - Lone Wolf",
+      "company": "The Dark Sole Enterprise Ltd",
+      "app_name": "Apex - Lone Wolf",
+      "topic_id": "118574417",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_the/118574417"
+    },
+    {
+      "raw_title": "Featured App Request: The Dark Sole Enterprise Ltd - P100",
+      "company": "The Dark Sole Enterprise Ltd",
+      "app_name": "P100",
+      "topic_id": "118574416",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_the/118574416"
+    },
+    {
+      "raw_title": "Featured App Request: Nuxaris LLC - Nuxaris",
+      "company": "Nuxaris LLC",
+      "app_name": "Nuxaris",
+      "topic_id": "118546663",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_nuxaris/118546663"
+    },
+    {
+      "raw_title": "Featured App Request: Blueprint Infrastructure, LLC - CC Ledger",
+      "company": "Blueprint Infrastructure, LLC",
+      "app_name": "CC Ledger",
+      "topic_id": "118546662",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118546662"
+    },
+    {
+      "raw_title": "Featured App Request: Allocate Technologies - Lumens",
+      "company": "Allocate Technologies",
+      "app_name": "Lumens",
+      "topic_id": "118546661",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118546661"
+    },
+    {
+      "raw_title": "Featured App Request: WEB34EVER - SyncVotes",
+      "company": "WEB34EVER",
+      "app_name": "SyncVotes",
+      "topic_id": "118530322",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118530322"
+    },
+    {
+      "raw_title": "Featured App Request: Coinaegis - Coinaegis",
+      "company": "Coinaegis",
+      "app_name": "Coinaegis",
+      "topic_id": "118530321",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118530321"
+    },
+    {
+      "raw_title": "Featured App Request: ClearEcho - ClearEcho",
+      "company": "ClearEcho",
+      "app_name": "ClearEcho",
+      "topic_id": "118530320",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118530320"
+    },
+    {
+      "raw_title": "Featured App Request: Aevum Technology - Aevum Wallet",
+      "company": "Aevum Technology",
+      "app_name": "Aevum Wallet",
+      "topic_id": "118513618",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_aevum/118513618"
+    },
+    {
+      "raw_title": "Featured App Request: Quokka - Quokka",
+      "company": "Quokka",
+      "app_name": "Quokka",
+      "topic_id": "118513617",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_quokka/118513617"
+    },
+    {
+      "raw_title": "Featured App Request: Blueprint - Blueprint",
+      "company": "Blueprint",
+      "app_name": "Blueprint",
+      "topic_id": "118513616",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118513616"
+    },
+    {
+      "raw_title": "Featured App Request: Helios Finance - Helios Credit Line & Card",
+      "company": "Helios Finance",
+      "app_name": "Helios Credit Line & Card",
+      "topic_id": "118274064",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_helios/118274064"
+    },
+    {
+      "raw_title": "Featured App Request: WolfEdge Labs - Cardiv",
+      "company": "WolfEdge Labs",
+      "app_name": "Cardiv",
+      "topic_id": "118496701",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118496701"
+    },
+    {
+      "raw_title": "Featured App Request: Ditto Network (Automation Labs Ltd.) - Ditto CCvault",
+      "company": "Ditto Network (Automation Labs Ltd.)",
+      "app_name": "Ditto CCvault",
+      "topic_id": "118479112",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_ditto/118479112"
+    },
+    {
+      "raw_title": "Featured App Request: Lithium Digital Limited - Cauri",
+      "company": "Lithium Digital Limited",
+      "app_name": "Cauri",
+      "topic_id": "118479110",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_lithium/118479110"
+    },
+    {
+      "raw_title": "Featured App Request: Benleo Group - Bitleo Wallet",
+      "company": "Benleo Group",
+      "app_name": "Bitleo Wallet",
+      "topic_id": "118460056",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_benleo/118460056"
+    },
+    {
+      "raw_title": "Featured App Request: Goldacorn Protocol - Goldacorn Protocol",
+      "company": "Goldacorn Protocol",
+      "app_name": "Goldacorn Protocol",
+      "topic_id": "118444442",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118444442"
+    },
+    {
+      "raw_title": "Featured App Request: CryptoLegacy - CryptoLegacy",
+      "company": "CryptoLegacy",
+      "app_name": "CryptoLegacy",
+      "topic_id": "118444441",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118444441"
+    },
+    {
+      "raw_title": "Featured App Request: Redpacket - Redpacket",
+      "company": "Redpacket",
+      "app_name": "Redpacket",
+      "topic_id": "118444440",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118444440"
+    },
+    {
+      "raw_title": "Featured App Request: FireStar Digital - Prediction Market",
+      "company": "FireStar Digital",
+      "app_name": "Prediction Market",
+      "topic_id": "118430135",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118430135"
+    },
+    {
+      "raw_title": "Featured App Request: LynoBridge - LynoBridge",
+      "company": "LynoBridge",
+      "app_name": "LynoBridge",
+      "topic_id": "118395741",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118395741"
+    },
+    {
+      "raw_title": "Featured App Request: OKX - OKX CC Exchange Gateway",
+      "company": "OKX",
+      "app_name": "OKX CC Exchange Gateway",
+      "topic_id": "118378274",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_okx/118378274"
+    },
+    {
+      "raw_title": "Featured App Request: Avro Digital - xCC Vault",
+      "company": "Avro Digital",
+      "app_name": "xCC Vault",
+      "topic_id": "118378273",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_avro/118378273"
+    },
+    {
+      "raw_title": "Featured App Request: Chynity Wallet - https://chynity.com",
+      "company": "Chynity Wallet",
+      "app_name": "https://chynity.com",
+      "topic_id": "118359607",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_chynity/118359607"
+    },
+    {
+      "raw_title": "Featured App Request: Archerswap - MEME token and Coinflip",
+      "company": "Archerswap",
+      "app_name": "MEME token and Coinflip",
+      "topic_id": "118359606",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118359606"
+    },
+    {
+      "raw_title": "Featured App Request: ClearEcho - ClearEcho",
+      "company": "ClearEcho",
+      "app_name": "ClearEcho",
+      "topic_id": "118310129",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118310129"
+    },
+    {
+      "raw_title": "Featured App Request: LayerZero - LayerZero",
+      "company": "LayerZero",
+      "app_name": "LayerZero",
+      "topic_id": "118310127",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118310127"
+    },
+    {
+      "raw_title": "Featured App Request: PoolX Development Team - PoolX",
+      "company": "PoolX Development Team",
+      "app_name": "PoolX",
+      "topic_id": "118310128",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_poolx/118310128"
+    },
+    {
+      "raw_title": "Featured App Request: Finkfi Inc - Parthenon",
+      "company": "Finkfi Inc",
+      "app_name": "Parthenon",
+      "topic_id": "118292540",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_finkfi/118292540"
+    },
+    {
+      "raw_title": "Featured App Request: Tori Labs - Tori Finance",
+      "company": "Tori Labs",
+      "app_name": "Tori Finance",
+      "topic_id": "118274065",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_tori/118274065"
+    },
+    {
+      "raw_title": "Featured App Request: CryptoBridges Capital - CRoulettes",
+      "company": "CryptoBridges Capital",
+      "app_name": "CRoulettes",
+      "topic_id": "118274063",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118274063"
+    },
+    {
+      "raw_title": "Featured App Request: catsmileproject - Splice Hub",
+      "company": "catsmileproject",
+      "app_name": "Splice Hub",
+      "topic_id": "118255204",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118255204"
+    },
+    {
+      "raw_title": "Featured App Request: Winsnip - Winscan",
+      "company": "Winsnip",
+      "app_name": "Winscan",
+      "topic_id": "118255203",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_winsnip/118255203"
+    },
+    {
+      "raw_title": "Featured App Request: Celing - AAA",
+      "company": "Celing",
+      "app_name": "AAA",
+      "topic_id": "118255202",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_celing/118255202"
+    },
+    {
+      "raw_title": "Featured App Request: HandlPay - HandlPay: Additional featured Party ID to separate consumer app activity from asset is…",
+      "company": "HandlPay",
+      "app_name": "HandlPay: Additional featured Party ID to separate consumer app activity from asset is…",
+      "topic_id": "118255201",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118255201"
+    },
+    {
+      "raw_title": "Featured App Request: Changelly - Changelly to be considered as a Featured App and listed under Trading and Exchange pa…",
+      "company": "Changelly",
+      "app_name": "Changelly to be considered as a Featured App and listed under Trading and Exchange pa…",
+      "topic_id": "118236082",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118236082"
+    },
+    {
+      "raw_title": "Featured App Request: CryptoLegacy - CryptoLegacy",
+      "company": "CryptoLegacy",
+      "app_name": "CryptoLegacy",
+      "topic_id": "118184700",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118184700"
+    },
+    {
+      "raw_title": "Featured App Request: Amberdata - SVI Oracle",
+      "company": "Amberdata",
+      "app_name": "SVI Oracle",
+      "topic_id": "118184699",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118184699"
+    },
+    {
+      "raw_title": "Featured App Request: Bit Dynamics AB - BitDynamics",
+      "company": "Bit Dynamics AB",
+      "app_name": "BitDynamics",
+      "topic_id": "118166383",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_bit/118166383"
+    },
+    {
+      "raw_title": "Featured App Request: Thesauros Protocol - Thesauros Protocol",
+      "company": "Thesauros Protocol",
+      "app_name": "Thesauros Protocol",
+      "topic_id": "118166382",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118166382"
+    },
+    {
+      "raw_title": "Featured App Request: Timelock Labs - Multi Signature Wallet",
+      "company": "Timelock Labs",
+      "app_name": "Multi Signature Wallet",
+      "topic_id": "118166381",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118166381"
+    },
+    {
+      "raw_title": "Featured App Request: Timelock Labs - Multi signature wallet",
+      "company": "Timelock Labs",
+      "app_name": "Multi signature wallet",
+      "topic_id": "118166380",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118166380"
+    },
+    {
+      "raw_title": "Featured App Request: Cordial Systems - Enabling Canton Coin listings at exchanges via Cordial support for Canton",
+      "company": "Cordial Systems",
+      "app_name": "Enabling Canton Coin listings at exchanges via Cordial support for Canton",
+      "topic_id": "118166379",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_cordial/118166379"
+    },
+    {
+      "raw_title": "Featured App Request: Launchnodes - CCBeacon",
+      "company": "Launchnodes",
+      "app_name": "CCBeacon",
+      "topic_id": "118128181",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118128181"
+    },
+    {
+      "raw_title": "Featured App Request: Cancore - Cancore",
+      "company": "Cancore",
+      "app_name": "Cancore",
+      "topic_id": "118057646",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_cancore/118057646"
+    },
+    {
+      "raw_title": "Featured App Request: Nexode - Nexode",
+      "company": "Nexode",
+      "app_name": "Nexode",
+      "topic_id": "118057645",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_nexode/118057645"
+    },
+    {
+      "raw_title": "Featured App Request: Ants Global Inc (Tap Ants) - Tap Ants",
+      "company": "Ants Global Inc (Tap Ants)",
+      "app_name": "Tap Ants",
+      "topic_id": "118026264",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_ants/118026264"
+    },
+    {
+      "raw_title": "Featured App Request: Sats Terminal - OneSwap",
+      "company": "Sats Terminal",
+      "app_name": "OneSwap",
+      "topic_id": "118026263",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_sats/118026263"
+    },
+    {
+      "raw_title": "Featured App Request: WolfEdge Labs - Calden",
+      "company": "WolfEdge Labs",
+      "app_name": "Calden",
+      "topic_id": "118026262",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118026262"
+    },
+    {
+      "raw_title": "Featured App Request: Tothemoon - Tothemoon",
+      "company": "Tothemoon",
+      "app_name": "Tothemoon",
+      "topic_id": "118026261",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/118026261"
+    },
+    {
+      "raw_title": "Featured App Request: Rivera Money Inc. - Raven Market",
+      "company": "Rivera Money Inc.",
+      "app_name": "Raven Market",
+      "topic_id": "117937021",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_rivera/117937021"
+    },
+    {
+      "raw_title": "Featured App Request: ZERO UNIVERSE TECHNOLOGY CO.,LTD - Tiva",
+      "company": "ZERO UNIVERSE TECHNOLOGY CO.,LTD",
+      "app_name": "Tiva",
+      "topic_id": "117990546",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_zero/117990546"
+    },
+    {
+      "raw_title": "Featured App Request: RootsFi, Inc. - Bridge by Roots",
+      "company": "RootsFi, Inc.",
+      "app_name": "Bridge by Roots",
+      "topic_id": "117971861",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request/117971861"
+    },
+    {
+      "raw_title": "Featured App Request: Nine Realms Inc, DBA “Scion Digital Group” - ScionPool",
+      "company": "Nine Realms Inc, DBA “Scion Digital Group”",
+      "app_name": "ScionPool",
+      "topic_id": "117953474",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_nine/117953474"
+    },
+    {
+      "raw_title": "Featured App Request: Bit Dynamics AB - Bit Dynamics",
+      "company": "Bit Dynamics AB",
+      "app_name": "Bit Dynamics",
+      "topic_id": "117953473",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_bit/117953473"
+    },
+    {
+      "raw_title": "Featured App Request: Hundred Exchange - Hundred Exchange",
+      "company": "Hundred Exchange",
+      "app_name": "Hundred Exchange",
+      "topic_id": "117937020",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_hundred/117937020"
+    },
+    {
+      "raw_title": "[WITHDRAWN] Featured App Request: BitDynamics AB - Cantonmarkets",
+      "company": "[WITHDRAWN]  BitDynamics AB",
+      "app_name": "Cantonmarkets",
+      "topic_id": "117922837",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/withdrawn_featured_app/117922837"
+    },
+    {
+      "raw_title": "New Featured App Request: Etherfuse",
+      "company": "New  Etherfuse",
+      "app_name": "",
+      "topic_id": "117888326",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117888326"
+    },
+    {
+      "raw_title": "New Featured App Request: Edel",
+      "company": "New  Edel",
+      "app_name": "",
+      "topic_id": "117888325",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117888325"
+    },
+    {
+      "raw_title": "New Featured App Request: TradeChain",
+      "company": "New  TradeChain",
+      "app_name": "",
+      "topic_id": "117870921",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117870921"
+    },
+    {
+      "raw_title": "New Featured App Request: ChainDAQ",
+      "company": "New  ChainDAQ",
+      "app_name": "",
+      "topic_id": "117870920",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117870920"
+    },
+    {
+      "raw_title": "New Featured App Request: Ilia Savelev",
+      "company": "New  Ilia Savelev",
+      "app_name": "",
+      "topic_id": "117870919",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117870919"
+    },
+    {
+      "raw_title": "New Featured App Request: Kora",
+      "company": "New  Kora",
+      "app_name": "",
+      "topic_id": "117870918",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117870918"
+    },
+    {
+      "raw_title": "New Featured App Request: Prime Grid Solutions",
+      "company": "New  Prime Grid Solutions",
+      "app_name": "",
+      "topic_id": "117852911",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117852911"
+    },
+    {
+      "raw_title": "New Featured App Request: EDX Markets LLC",
+      "company": "New  EDX Markets LLC",
+      "app_name": "",
+      "topic_id": "117852910",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request_edx/117852910"
+    },
+    {
+      "raw_title": "New Featured App Request: Real World Asset Global Innovation Research Institute",
+      "company": "New  Real World Asset Global Innovation Research Institute",
+      "app_name": "",
+      "topic_id": "117834899",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117834899"
+    },
+    {
+      "raw_title": "New Featured App Request: CC Bot",
+      "company": "New  CC Bot",
+      "app_name": "",
+      "topic_id": "117819895",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request_cc/117819895"
+    },
+    {
+      "raw_title": "New Featured App Request: Falcon Capital (BVI) Ltd",
+      "company": "New  Falcon Capital (BVI) Ltd",
+      "app_name": "",
+      "topic_id": "117805577",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117805577"
+    },
+    {
+      "raw_title": "New Featured App Request: RedStone Oracles",
+      "company": "New  RedStone Oracles",
+      "app_name": "",
+      "topic_id": "117540491",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117540491"
+    },
+    {
+      "raw_title": "New Featured App Request: CANex (AZX, BingX and DeSyn Joint Venture）",
+      "company": "New  CANex (AZX, BingX and DeSyn Joint Venture）",
+      "app_name": "",
+      "topic_id": "117788320",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117788320"
+    },
+    {
+      "raw_title": "New Featured App Request: Roostone Capital",
+      "company": "New  Roostone Capital",
+      "app_name": "",
+      "topic_id": "117788319",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117788319"
+    },
+    {
+      "raw_title": "New Featured App Request: Rails Tech Ltd",
+      "company": "New  Rails Tech Ltd",
+      "app_name": "",
+      "topic_id": "117752366",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117752366"
+    },
+    {
+      "raw_title": "New Featured App Request: Rapid Blockchain Technologies Ltd.",
+      "company": "New  Rapid Blockchain Technologies Ltd.",
+      "app_name": "",
+      "topic_id": "117752365",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117752365"
+    },
+    {
+      "raw_title": "New Featured App Request: Rho Labs (Arda Solutions LLC MENA FZ)",
+      "company": "New  Rho Labs (Arda Solutions LLC MENA FZ)",
+      "app_name": "",
+      "topic_id": "117733844",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request_rho/117733844"
+    },
+    {
+      "raw_title": "New Featured App Request: Yogen",
+      "company": "New  Yogen",
+      "app_name": "",
+      "topic_id": "117715074",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117715074"
+    },
+    {
+      "raw_title": "New Featured App Request: Hawk Nodes",
+      "company": "New  Hawk Nodes",
+      "app_name": "",
+      "topic_id": "117275014",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117275014"
+    },
+    {
+      "raw_title": "New Featured App Request: Launchnodes",
+      "company": "New  Launchnodes",
+      "app_name": "",
+      "topic_id": "117667616",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117667616"
+    },
+    {
+      "raw_title": "New Featured App Request: K2F Labs",
+      "company": "New  K2F Labs",
+      "app_name": "",
+      "topic_id": "117649311",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request_k2f/117649311"
+    },
+    {
+      "raw_title": "New Featured App Request: Noders LLC",
+      "company": "New  Noders LLC",
+      "app_name": "",
+      "topic_id": "117630063",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117630063"
+    },
+    {
+      "raw_title": "New Featured App Request: Ledger",
+      "company": "New  Ledger",
+      "app_name": "",
+      "topic_id": "117630062",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117630062"
+    },
+    {
+      "raw_title": "New Featured App Request: Trade.Fast",
+      "company": "New  Trade.Fast",
+      "app_name": "",
+      "topic_id": "117592196",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117592196"
+    },
+    {
+      "raw_title": "New Featured App Request: tothemoon.com",
+      "company": "New  tothemoon.com",
+      "app_name": "",
+      "topic_id": "117522284",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117522284"
+    },
+    {
+      "raw_title": "New Featured App Request: wuselfabrik GmbH",
+      "company": "New  wuselfabrik GmbH",
+      "app_name": "",
+      "topic_id": "117484290",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117484290"
+    },
+    {
+      "raw_title": "New Featured App Request: FTP",
+      "company": "New  FTP",
+      "app_name": "",
+      "topic_id": "117325453",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request_ftp/117325453"
+    },
+    {
+      "raw_title": "New Featured App Request: Global Settlement Holdings, Inc",
+      "company": "New  Global Settlement Holdings, Inc",
+      "app_name": "",
+      "topic_id": "117431661",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117431661"
+    },
+    {
+      "raw_title": "New Featured App Request: Haven Digital Partners (legal entity name – HDP Capital Management Ltd)",
+      "company": "New  Haven Digital Partners (legal entity name – HDP Capital Management Ltd)",
+      "app_name": "",
+      "topic_id": "117431660",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117431660"
+    },
+    {
+      "raw_title": "New Featured App Request: TuPack",
+      "company": "New  TuPack",
+      "app_name": "",
+      "topic_id": "117431659",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117431659"
+    },
+    {
+      "raw_title": "New Featured App Request: Fairmint Transfer Agent",
+      "company": "New  Fairmint Transfer Agent",
+      "app_name": "",
+      "topic_id": "117395595",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117395595"
+    },
+    {
+      "raw_title": "New Featured App Request: Republic Crypto LLC",
+      "company": "New  Republic Crypto LLC",
+      "app_name": "",
+      "topic_id": "117377713",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117377713"
+    },
+    {
+      "raw_title": "New Featured App Request: Bud Novin",
+      "company": "New  Bud Novin",
+      "app_name": "",
+      "topic_id": "117359338",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request_bud/117359338"
+    },
+    {
+      "raw_title": "New Featured App Request: Yuce",
+      "company": "New  Yuce",
+      "app_name": "",
+      "topic_id": "117310729",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117310729"
+    },
+    {
+      "raw_title": "New Featured App Request: HIFI",
+      "company": "New  HIFI",
+      "app_name": "",
+      "topic_id": "117310728",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117310728"
+    },
+    {
+      "raw_title": "New Featured App Request: Hecto Finance",
+      "company": "New  Hecto Finance",
+      "app_name": "",
+      "topic_id": "117257163",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117257163"
+    },
+    {
+      "raw_title": "New Featured App Request: Proton43",
+      "company": "New  Proton43",
+      "app_name": "",
+      "topic_id": "117202945",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117202945"
+    },
+    {
+      "raw_title": "New Featured App Request: CaviarNine Limited",
+      "company": "New  CaviarNine Limited",
+      "app_name": "",
+      "topic_id": "117187850",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117187850"
+    },
+    {
+      "raw_title": "New Featured App Request: Send Foundation",
+      "company": "New  Send Foundation",
+      "app_name": "",
+      "topic_id": "117148363",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117148363"
+    },
+    {
+      "raw_title": "New Featured App Request: Boosty Labs",
+      "company": "New  Boosty Labs",
+      "app_name": "",
+      "topic_id": "117130021",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117130021"
+    },
+    {
+      "raw_title": "New Featured App Request: LILIZ",
+      "company": "New  LILIZ",
+      "app_name": "",
+      "topic_id": "117101378",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117101378"
+    },
+    {
+      "raw_title": "New Featured App Request: Supanova",
+      "company": "New  Supanova",
+      "app_name": "",
+      "topic_id": "117052679",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/117052679"
+    },
+    {
+      "raw_title": "New Featured App Request: HandlPay by Verso Network AG",
+      "company": "New  HandlPay by Verso Network AG",
+      "app_name": "",
+      "topic_id": "115916022",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115916022"
+    },
+    {
+      "raw_title": "New Featured App Request: BitGo",
+      "company": "New  BitGo",
+      "app_name": "",
+      "topic_id": "116929883",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116929883"
+    },
+    {
+      "raw_title": "New Featured App Request: Validity.id Inc.",
+      "company": "New  Validity.id Inc.",
+      "app_name": "",
+      "topic_id": "116572309",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116572309"
+    },
+    {
+      "raw_title": "New Featured App Request: Orphil LLC (Agentic Ledger)",
+      "company": "New  Orphil LLC (Agentic Ledger)",
+      "app_name": "",
+      "topic_id": "115692304",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115692304"
+    },
+    {
+      "raw_title": "New Featured App Request: Silvana",
+      "company": "New  Silvana",
+      "app_name": "",
+      "topic_id": "116897870",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116897870"
+    },
+    {
+      "raw_title": "New Featured App Request: Ubyx",
+      "company": "New  Ubyx",
+      "app_name": "",
+      "topic_id": "116805831",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116805831"
+    },
+    {
+      "raw_title": "New Featured App Request: Tenkai GmbH",
+      "company": "New  Tenkai GmbH",
+      "app_name": "",
+      "topic_id": "116805830",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116805830"
+    },
+    {
+      "raw_title": "New Featured App Request: FTP Tech",
+      "company": "New  FTP Tech",
+      "app_name": "",
+      "topic_id": "116788208",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request_ftp/116788208"
+    },
+    {
+      "raw_title": "New Featured App Request: Potamus Engagement",
+      "company": "New  Potamus Engagement",
+      "app_name": "",
+      "topic_id": "116742042",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116742042"
+    },
+    {
+      "raw_title": "New Featured App Request: K2F Labs",
+      "company": "New  K2F Labs",
+      "app_name": "",
+      "topic_id": "116742041",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request_k2f/116742041"
+    },
+    {
+      "raw_title": "New Featured App Request: Node Fortress",
+      "company": "New  Node Fortress",
+      "app_name": "",
+      "topic_id": "116690170",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116690170"
+    },
+    {
+      "raw_title": "New Featured App Request: FDF Technologies",
+      "company": "New  FDF Technologies",
+      "app_name": "",
+      "topic_id": "116707963",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request_fdf/116707963"
+    },
+    {
+      "raw_title": "New Featured App Request: Remind Nation",
+      "company": "New  Remind Nation",
+      "app_name": "",
+      "topic_id": "116671684",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116671684"
+    },
+    {
+      "raw_title": "New Featured App Request: WebWise Capital",
+      "company": "New  WebWise Capital",
+      "app_name": "",
+      "topic_id": "116642290",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116642290"
+    },
+    {
+      "raw_title": "New Featured App Request: LILIZ",
+      "company": "New  LILIZ",
+      "app_name": "",
+      "topic_id": "116626238",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116626238"
+    },
+    {
+      "raw_title": "New Featured App Request: Lorenzo",
+      "company": "New  Lorenzo",
+      "app_name": "",
+      "topic_id": "116608337",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116608337"
+    },
+    {
+      "raw_title": "New Featured App Request: Axymos Systems Limited",
+      "company": "New  Axymos Systems Limited",
+      "app_name": "",
+      "topic_id": "116608336",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116608336"
+    },
+    {
+      "raw_title": "New Featured App Request: ALUM LABS",
+      "company": "New  ALUM LABS",
+      "app_name": "",
+      "topic_id": "115364506",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115364506"
+    },
+    {
+      "raw_title": "FW: New Featured App Request: AKASEC",
+      "company": "FW: New  AKASEC",
+      "app_name": "",
+      "topic_id": "116029255",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/fw_new_featured_app_request/116029255"
+    },
+    {
+      "raw_title": "New Featured App Request: Plume Network",
+      "company": "New  Plume Network",
+      "app_name": "",
+      "topic_id": "116496718",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116496718"
+    },
+    {
+      "raw_title": "New Featured App Request: ChainSafe Systems",
+      "company": "New  ChainSafe Systems",
+      "app_name": "",
+      "topic_id": "116420128",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116420128"
+    },
+    {
+      "raw_title": "New Featured App Request: Synthetify Labs",
+      "company": "New  Synthetify Labs",
+      "app_name": "",
+      "topic_id": "116404078",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116404078"
+    },
+    {
+      "raw_title": "New Featured App Request: Noves",
+      "company": "New  Noves",
+      "app_name": "",
+      "topic_id": "116387361",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116387361"
+    },
+    {
+      "raw_title": "New Featured App Request: Rhein Finance (developed by Mosaic Lab Inc.)",
+      "company": "New  Rhein Finance (developed by Mosaic Lab Inc.)",
+      "app_name": "",
+      "topic_id": "116369835",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116369835"
+    },
+    {
+      "raw_title": "New Featured App Request: Changelly",
+      "company": "New  Changelly",
+      "app_name": "",
+      "topic_id": "116288050",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116288050"
+    },
+    {
+      "raw_title": "New Featured App Request: Tradeweb",
+      "company": "New  Tradeweb",
+      "app_name": "",
+      "topic_id": "116274345",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116274345"
+    },
+    {
+      "raw_title": "New Featured App Request: Talos",
+      "company": "New  Talos",
+      "app_name": "",
+      "topic_id": "116270146",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116270146"
+    },
+    {
+      "raw_title": "New Featured App Request: Scifecap",
+      "company": "New  Scifecap",
+      "app_name": "",
+      "topic_id": "116252332",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116252332"
+    },
+    {
+      "raw_title": "New Featured App Request: Hashrupt Limited",
+      "company": "New  Hashrupt Limited",
+      "app_name": "",
+      "topic_id": "115862569",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115862569"
+    },
+    {
+      "raw_title": "New Featured App Request: Send Foundation — Privat Vault",
+      "company": "New  Send Foundation — Privat Vault",
+      "app_name": "",
+      "topic_id": "116245356",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116245356"
+    },
+    {
+      "raw_title": "New Featured App Request: Bitsafe",
+      "company": "New  Bitsafe",
+      "app_name": "",
+      "topic_id": "116245265",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116245265"
+    },
+    {
+      "raw_title": "New Featured App Request: Otoclick App",
+      "company": "New  Otoclick App",
+      "app_name": "",
+      "topic_id": "116245247",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116245247"
+    },
+    {
+      "raw_title": "New Featured App Request: Palladium (Sats Labs Inc.)",
+      "company": "New  Palladium (Sats Labs Inc.)",
+      "app_name": "",
+      "topic_id": "116245240",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116245240"
+    },
+    {
+      "raw_title": "New Featured App Request: LITHIUM DIGITAL LIMITED",
+      "company": "New  LITHIUM DIGITAL LIMITED",
+      "app_name": "",
+      "topic_id": "116160112",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116160112"
+    },
+    {
+      "raw_title": "New Featured App Request: RoundBeat",
+      "company": "New  RoundBeat",
+      "app_name": "",
+      "topic_id": "116143950",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116143950"
+    },
+    {
+      "raw_title": "New Featured App Request: Guffey, Inc.",
+      "company": "New  Guffey, Inc.",
+      "app_name": "",
+      "topic_id": "116124874",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116124874"
+    },
+    {
+      "raw_title": "New Featured App Request: FDF Technologies",
+      "company": "New  FDF Technologies",
+      "app_name": "",
+      "topic_id": "115915419",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request_fdf/115915419"
+    },
+    {
+      "raw_title": "New Featured App Request: Emscote Arden Solutions FZC",
+      "company": "New  Emscote Arden Solutions FZC",
+      "app_name": "",
+      "topic_id": "115855023",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115855023"
+    },
+    {
+      "raw_title": "New Featured App Request: HydraX",
+      "company": "New  HydraX",
+      "app_name": "",
+      "topic_id": "116114026",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116114026"
+    },
+    {
+      "raw_title": "New Featured App Request: ANGELHACK PTE. LTD.",
+      "company": "New  ANGELHACK PTE. LTD.",
+      "app_name": "",
+      "topic_id": "116112982",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116112982"
+    },
+    {
+      "raw_title": "New Featured App Request: Modulo Labs, Inc.",
+      "company": "New  Modulo Labs, Inc.",
+      "app_name": "",
+      "topic_id": "116107202",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116107202"
+    },
+    {
+      "raw_title": "New Featured App Request: OpenVector - Zoro Wallet",
+      "company": "New  OpenVector",
+      "app_name": "Zoro Wallet",
+      "topic_id": "115954716",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115954716"
+    },
+    {
+      "raw_title": "New Featured App Request: Thetanuts Asset Corp",
+      "company": "New  Thetanuts Asset Corp",
+      "app_name": "",
+      "topic_id": "116101179",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116101179"
+    },
+    {
+      "raw_title": "New Featured App Request: Flipside Crypto",
+      "company": "New  Flipside Crypto",
+      "app_name": "",
+      "topic_id": "116055961",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116055961"
+    },
+    {
+      "raw_title": "New Featured App Request: PeerTrust Ltd",
+      "company": "New  PeerTrust Ltd",
+      "app_name": "",
+      "topic_id": "115874334",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115874334"
+    },
+    {
+      "raw_title": "New Featured App Request: Cypherock",
+      "company": "New  Cypherock",
+      "app_name": "",
+      "topic_id": "115831007",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115831007"
+    },
+    {
+      "raw_title": "New Featured App Request: Zodia Custody",
+      "company": "New  Zodia Custody",
+      "app_name": "",
+      "topic_id": "116047093",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116047093"
+    },
+    {
+      "raw_title": "New Featured App Request: Alpha DNA Private Ltd",
+      "company": "New  Alpha DNA Private Ltd",
+      "app_name": "",
+      "topic_id": "116033481",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116033481"
+    },
+    {
+      "raw_title": "New Featured App Request: pixelplex",
+      "company": "New  pixelplex",
+      "app_name": "",
+      "topic_id": "116031194",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116031194"
+    },
+    {
+      "raw_title": "New Featured App Request: OpenVector",
+      "company": "New  OpenVector",
+      "app_name": "",
+      "topic_id": "116053946",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116053946"
+    },
+    {
+      "raw_title": "New Featured App Request: Opus 28",
+      "company": "New  Opus 28",
+      "app_name": "",
+      "topic_id": "116017197",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/116017197"
+    },
+    {
+      "raw_title": "New Featured App Request: Excellar International SAC Ltd.",
+      "company": "New  Excellar International SAC Ltd.",
+      "app_name": "",
+      "topic_id": "115789035",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115789035"
+    },
+    {
+      "raw_title": "New Featured App Request: The Ching Labs Ltd.",
+      "company": "New  The Ching Labs Ltd.",
+      "app_name": "",
+      "topic_id": "115704000",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request_the/115704000"
+    },
+    {
+      "raw_title": "New Featured App Request: Staketab",
+      "company": "New  Staketab",
+      "app_name": "",
+      "topic_id": "115791283",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115791283"
+    },
+    {
+      "raw_title": "New Featured App Request: DTEAM",
+      "company": "New  DTEAM",
+      "app_name": "",
+      "topic_id": "115997255",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115997255"
+    },
+    {
+      "raw_title": "New Featured App Request: Foundinals Lab",
+      "company": "New  Foundinals Lab",
+      "app_name": "",
+      "topic_id": "115992614",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115992614"
+    },
+    {
+      "raw_title": "New Featured App Request: Traffic Infrastructure Ltd",
+      "company": "New  Traffic Infrastructure Ltd",
+      "app_name": "",
+      "topic_id": "115970731",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115970731"
+    },
+    {
+      "raw_title": "New Featured App Request: pixelplex",
+      "company": "New  pixelplex",
+      "app_name": "",
+      "topic_id": "115929012",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115929012"
+    },
+    {
+      "raw_title": "New Featured App Request: Ninteen26 Ltd",
+      "company": "New  Ninteen26 Ltd",
+      "app_name": "",
+      "topic_id": "115926384",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115926384"
+    },
+    {
+      "raw_title": "New Featured App Request: Noders LLC",
+      "company": "New  Noders LLC",
+      "app_name": "",
+      "topic_id": "115916749",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115916749"
+    },
+    {
+      "raw_title": "New Featured App Request: Sekoya Labs",
+      "company": "New  Sekoya Labs",
+      "app_name": "",
+      "topic_id": "115796386",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115796386"
+    },
+    {
+      "raw_title": "New Featured App Request: Five North",
+      "company": "New  Five North",
+      "app_name": "",
+      "topic_id": "115363096",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115363096"
+    },
+    {
+      "raw_title": "New Featured App Request: Kaiko",
+      "company": "New  Kaiko",
+      "app_name": "",
+      "topic_id": "115873905",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115873905"
+    },
+    {
+      "raw_title": "New Featured App Request: T-RIZE Group",
+      "company": "New  T-RIZE Group",
+      "app_name": "",
+      "topic_id": "115864356",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115864356"
+    },
+    {
+      "raw_title": "New Featured App Request: McShane Consulting LLC",
+      "company": "New  McShane Consulting LLC",
+      "app_name": "",
+      "topic_id": "115847575",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115847575"
+    },
+    {
+      "raw_title": "New Featured App Request: AKASEC",
+      "company": "New  AKASEC",
+      "app_name": "",
+      "topic_id": "115841095",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115841095"
+    },
+    {
+      "raw_title": "New Featured App Request: OpenVector",
+      "company": "New  OpenVector",
+      "app_name": "",
+      "topic_id": "115801734",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115801734"
+    },
+    {
+      "raw_title": "New Featured App Request: Texture Capital Inc. (subsidiary of Texture Capital Holdings Corp.)",
+      "company": "New  Texture Capital Inc. (subsidiary of Texture Capital Holdings Corp.)",
+      "app_name": "",
+      "topic_id": "115798521",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115798521"
+    },
+    {
+      "raw_title": "New Featured App Request: Texture Capital Holdings",
+      "company": "New  Texture Capital Holdings",
+      "app_name": "",
+      "topic_id": "115798271",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115798271"
+    },
+    {
+      "raw_title": "New Featured App Request: Macao Mining Company",
+      "company": "New  Macao Mining Company",
+      "app_name": "",
+      "topic_id": "115704346",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115704346"
+    },
+    {
+      "raw_title": "New Featured App Request: Chainbridge Accounting & Advisory",
+      "company": "New  Chainbridge Accounting & Advisory",
+      "app_name": "",
+      "topic_id": "115703548",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115703548"
+    },
+    {
+      "raw_title": "New Featured App Request: Fairmint",
+      "company": "New  Fairmint",
+      "app_name": "",
+      "topic_id": "115649182",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115649182"
+    },
+    {
+      "raw_title": "New Featured App Request: Bitsafe",
+      "company": "New  Bitsafe",
+      "app_name": "",
+      "topic_id": "115636367",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115636367"
+    },
+    {
+      "raw_title": "New Featured App Request: Profitr, Inc.",
+      "company": "New  Profitr, Inc.",
+      "app_name": "",
+      "topic_id": "115576007",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115576007"
+    },
+    {
+      "raw_title": "New Featured App Request: Towler Enterprises",
+      "company": "New  Towler Enterprises",
+      "app_name": "",
+      "topic_id": "115540610",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115540610"
+    },
+    {
+      "raw_title": "New Featured App Request: Mandalo Inc",
+      "company": "New  Mandalo Inc",
+      "app_name": "",
+      "topic_id": "115496473",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115496473"
+    },
+    {
+      "raw_title": "New Featured App Request: M1 Global",
+      "company": "New  M1 Global",
+      "app_name": "",
+      "topic_id": "115397089",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request_m1/115397089"
+    },
+    {
+      "raw_title": "New Featured App Request: Digital Asset - Bridge Operator for USDC",
+      "company": "New  Digital Asset",
+      "app_name": "Bridge Operator for USDC",
+      "topic_id": "115433697",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115433697"
+    },
+    {
+      "raw_title": "New Featured App Request: Zodia Custody",
+      "company": "New  Zodia Custody",
+      "app_name": "",
+      "topic_id": "115416465",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115416465"
+    },
+    {
+      "raw_title": "New Featured App Request: Node Fortress",
+      "company": "New  Node Fortress",
+      "app_name": "",
+      "topic_id": "115387547",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115387547"
+    },
+    {
+      "raw_title": "New Featured App Request: Obligate AG",
+      "company": "New  Obligate AG",
+      "app_name": "",
+      "topic_id": "115376931",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115376931"
+    },
+    {
+      "raw_title": "New Featured App Request: Noves, Inc",
+      "company": "New  Noves, Inc",
+      "app_name": "",
+      "topic_id": "115351610",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115351610"
+    },
+    {
+      "raw_title": "New Featured App Request: Proof Group",
+      "company": "New  Proof Group",
+      "app_name": "",
+      "topic_id": "115213466",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115213466"
+    },
+    {
+      "raw_title": "New Featured App Request: Trakx SAS",
+      "company": "New  Trakx SAS",
+      "app_name": "",
+      "topic_id": "115179346",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115179346"
+    },
+    {
+      "raw_title": "New Featured App Request: Send",
+      "company": "New  Send",
+      "app_name": "",
+      "topic_id": "115109706",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115109706"
+    },
+    {
+      "raw_title": "New Featured App Request: Temple",
+      "company": "New  Temple",
+      "app_name": "",
+      "topic_id": "115006409",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/115006409"
+    },
+    {
+      "raw_title": "New Featured App Request: Tenkai GmbH",
+      "company": "New  Tenkai GmbH",
+      "app_name": "",
+      "topic_id": "114988822",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/114988822"
+    },
+    {
+      "raw_title": "New Featured App Request: Black Manta Capital Partners",
+      "company": "New  Black Manta Capital Partners",
+      "app_name": "",
+      "topic_id": "114937743",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/114937743"
+    },
+    {
+      "raw_title": "New Featured App Request: IPBlock LLC",
+      "company": "New  IPBlock LLC",
+      "app_name": "",
+      "topic_id": "114794792",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/114794792"
+    },
+    {
+      "raw_title": "New Featured App Request: C7",
+      "company": "New  C7",
+      "app_name": "",
+      "topic_id": "114778783",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request_c7/114778783"
+    },
+    {
+      "raw_title": "New Featured App Request: Cantor8/DigiK",
+      "company": "New  Cantor8/DigiK",
+      "app_name": "",
+      "topic_id": "114699319",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/114699319"
+    },
+    {
+      "raw_title": "New Featured App Request: The Tie",
+      "company": "New  The Tie",
+      "app_name": "",
+      "topic_id": "114668538",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request_the/114668538"
+    },
+    {
+      "raw_title": "New Featured App Request: EquiTek LLC",
+      "company": "New  EquiTek LLC",
+      "app_name": "",
+      "topic_id": "114659953",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/114659953"
+    },
+    {
+      "raw_title": "New Featured App Request: Five North",
+      "company": "New  Five North",
+      "app_name": "",
+      "topic_id": "114578556",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/114578556"
+    },
+    {
+      "raw_title": "New Featured App Request: Lukka",
+      "company": "New  Lukka",
+      "app_name": "",
+      "topic_id": "114576356",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/114576356"
+    },
+    {
+      "raw_title": "New Featured App Request: Tradeweb",
+      "company": "New  Tradeweb",
+      "app_name": "",
+      "topic_id": "114550179",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/114550179"
+    },
+    {
+      "raw_title": "New Featured App Request: BRIKLY INC.",
+      "company": "New  BRIKLY INC.",
+      "app_name": "",
+      "topic_id": "114455693",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/114455693"
+    },
+    {
+      "raw_title": "New Featured App Request: Obsidian Software LLC",
+      "company": "New  Obsidian Software LLC",
+      "app_name": "",
+      "topic_id": "114342645",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/114342645"
+    },
+    {
+      "raw_title": "New Featured App Request: T-RIZE Group",
+      "company": "New  T-RIZE Group",
+      "app_name": "",
+      "topic_id": "114309625",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/114309625"
+    },
+    {
+      "raw_title": "New Featured App Request: Five North",
+      "company": "New  Five North",
+      "app_name": "",
+      "topic_id": "113857858",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/113857858"
+    },
+    {
+      "raw_title": "New Featured App Request: Lukka Inc.",
+      "company": "New  Lukka Inc.",
+      "app_name": "",
+      "topic_id": "113846026",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/113846026"
+    },
+    {
+      "raw_title": "New Featured App Request: Coin Metrics",
+      "company": "New  Coin Metrics",
+      "app_name": "",
+      "topic_id": "113833065",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/113833065"
+    },
+    {
+      "raw_title": "New Featured App Request: DLC (BVI) Holdings Ltd",
+      "company": "New  DLC (BVI) Holdings Ltd",
+      "app_name": "",
+      "topic_id": "113821853",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request_dlc/113821853"
+    },
+    {
+      "raw_title": "New Featured App Request: MPCH",
+      "company": "New  MPCH",
+      "app_name": "",
+      "topic_id": "113700641",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/113700641"
+    },
+    {
+      "raw_title": "New Featured App Request: Kaiko",
+      "company": "New  Kaiko",
+      "app_name": "",
+      "topic_id": "113686400",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/113686400"
+    },
+    {
+      "raw_title": "New Featured App Request: Dfns",
+      "company": "New  Dfns",
+      "app_name": "",
+      "topic_id": "113472368",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/113472368"
+    },
+    {
+      "raw_title": "Featured App Request: The Tie's Proposal to Feature a Second PartyID for App Scalability",
+      "company": "The Tie's Proposal to Feature a Second PartyID for App Scalability",
+      "app_name": "",
+      "topic_id": "113448066",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/featured_app_request_the/113448066"
+    },
+    {
+      "raw_title": "New Featured App Request: Fairmint, Inc.",
+      "company": "New  Fairmint, Inc.",
+      "app_name": "",
+      "topic_id": "113241893",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/113241893"
+    },
+    {
+      "raw_title": "New Featured App Request: Novaprime Innovations LLC",
+      "company": "New  Novaprime Innovations LLC",
+      "app_name": "",
+      "topic_id": "113266757",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/113266757"
+    },
+    {
+      "raw_title": "New Featured App Request: Bron Foundation",
+      "company": "New  Bron Foundation",
+      "app_name": "",
+      "topic_id": "112787885",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/112787885"
+    },
+    {
+      "raw_title": "New Featured App Request: Copper Markets (Switzerland) AG CHE-477.629.838",
+      "company": "New  Copper Markets (Switzerland) AG CHE-477.629.838",
+      "app_name": "",
+      "topic_id": "112450771",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/112450771"
+    },
+    {
+      "raw_title": "New Featured App Request: Bitalpha dba Bitwave",
+      "company": "New  Bitalpha dba Bitwave",
+      "app_name": "",
+      "topic_id": "112582865",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/112582865"
+    },
+    {
+      "raw_title": "New Featured App Request: Dfns",
+      "company": "New  Dfns",
+      "app_name": "",
+      "topic_id": "112541379",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/112541379"
+    },
+    {
+      "raw_title": "New Featured App Request: The Tie",
+      "company": "New  The Tie",
+      "app_name": "",
+      "topic_id": "111959462",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request_the/111959462"
+    },
+    {
+      "raw_title": "New Featured App Request: Chata Technologies Inc",
+      "company": "New  Chata Technologies Inc",
+      "app_name": "",
+      "topic_id": "111931451",
+      "date": "",
+      "message_count": 0,
+      "url": "https://lists.sync.global/g/tokenomics/topic/new_featured_app_request/111931451"
+    }
+  ],
+  "fa_thread_count": 233
+}

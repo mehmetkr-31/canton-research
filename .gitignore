@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+*.egg
+dist/
+build/
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Secrets / Environment
+.env
+.env.local
+credentials.json
+*.key
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
